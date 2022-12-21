@@ -46,7 +46,7 @@ Live Preview: <a href="http://gleffersonvicente.com.br/animais/">Animais</a>
 
 ## 🎨 Inspiração:
 
-Origamid : JavaScript
+Oracle One: Alura Challenge
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
