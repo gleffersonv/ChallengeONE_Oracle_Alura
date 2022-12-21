@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <img alt="" src="https://user-images.githubusercontent.com/62262162/208822282-d207684e-b366-4663-b357-e78fd5dc059a.png" width="30%">
+</p>
+
+
+
+<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
