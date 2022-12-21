@@ -8,6 +8,11 @@
   <img alt="" src="https://user-images.githubusercontent.com/62262162/208820551-06902d73-9c31-4c14-9c4b-9eece05cec76.png" width="100%">
 </p>
 
+<br>
+<h1 align="center">
+ Badge do Alura Challenge Projeto 1
+</h1>
+
 <p align="center">
   <img alt="" src="https://user-images.githubusercontent.com/62262162/208822282-d207684e-b366-4663-b357-e78fd5dc059a.png" width="30%">
 </p>
