@@ -1,11 +1,11 @@
 # ChallengeONE_Oracle_Alura
 
 <h1 align="center">
- Animais
+ Decodificador de Texto
 </h1>
 
 <p align="center">
-  <img alt="" src="https://user-images.githubusercontent.com/62262162/187798677-e2367922-724d-4ec6-a2c1-f386f92be5ec.jpg" width="100%">
+  <img alt="" src="https://user-images.githubusercontent.com/62262162/208820551-06902d73-9c31-4c14-9c4b-9eece05cec76.png" width="100%">
 </p>
 
 <p align="center">
