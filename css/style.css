@@ -115,7 +115,7 @@ textarea {
 }
 
 /* abaixo de 933px */
-@media (max-width: 1000px) {
+@media (max-width: 933px) {
 
   .img {
     display: none;
