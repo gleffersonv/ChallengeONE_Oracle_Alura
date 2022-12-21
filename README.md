@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Live Preview: <a href="http://gleffersonvicente.com.br/animais/">Animais</a>
+Live Preview: <a href="https://gleffersonv.github.io/ChallengeONE_Oracle_Alura/">Decodificador de Texto</a>
 
 ## 🎨 Inspiração:
 
