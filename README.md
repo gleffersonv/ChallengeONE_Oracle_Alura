@@ -46,7 +46,8 @@ Live Preview: <a href="https://gleffersonv.github.io/ChallengeONE_Oracle_Alura/"
 
 ## 🎨 Inspiração:
 
-Oracle One: Alura Challenge
+Oracle One: Alura Challenge <br>
+Figma: <a href="https://www.figma.com/file/cblN2nhpFBiX1t8KxBgc4A/Alura-Challenge---Desafio-1---L%C3%B3gica-(Copy)?t=aPAsbtJPKUWBHzoS-0"> Layout</a>
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
